@@ -1,6 +1,8 @@
 # Edge solidify
 A python script for [Blender](https://www.blender.org/) to solidify edge only flat meshes. 
 
+To use the script load it in Blender, select your edge only mesh and run the script. It works when in object mode only.
+The result will be a new mesh added on top of the original mesh on the same object.
 In the python script you can change the parameters height, width, z_offset, ends_offset
 
 ### Height
