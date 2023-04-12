@@ -4,6 +4,7 @@ import numpy as np
 from mathutils import Vector
 from math import atan2
 
+#parameters
 width = 0.2
 height = 2
 z_offset = 0 # The vertical offset (common values are from -1 to 1)
