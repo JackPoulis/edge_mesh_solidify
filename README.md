@@ -1,0 +1,1 @@
+A python script for Blender to solidify edge only flat meshes. 
