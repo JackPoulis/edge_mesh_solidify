@@ -5,6 +5,14 @@ To use the script load it in Blender, select your edge only mesh and run the scr
 The result will be a new mesh added on top of the original mesh on the same object.
 In the python script you can change the parameters height, width, z_offset, ends_offset
 
+```python
+#parameters
+width = 0.2
+height = 2
+z_offset = 0 # The vertical offset (common values are from -1 to 1)
+ends_offset = 0 # The end points offset (common values are from 0 to 1)
+```
+
 ### Height
 The height of the walls.
 
